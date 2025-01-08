@@ -1,4 +1,7 @@
 # **TGB-Cracker**
+[![Current Version](https://img.shields.io/badge/version-0.1-blue)](https://github.com/Rakhilukky/TGB-Cracker/releases)
+[![Status](https://img.shields.io/badge/status-Working and Updated-brightgreen)](https://github.com/Rakhilukky/TGB-Cracker/)
+[![License](https://img.shields.io/badge/license-Apache 2.0-blue)](LICENSE)
 
 ## **Telegram Cracking Tools and Botting Framework**
 
