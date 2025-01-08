@@ -42,7 +42,7 @@ This project is licensed under the **Apache 2.0 License**. It is intended for et
 
 #### **System Requirements**
 - Operating System: Windows 10 (64-bit recommended).
-- RAM: Minimum 4 GB (8 GB recommended).
+- RAM: Minimum 1 GB (4 GB recommended).
 - Disk Space: 50 MB for installation.
 
 #### **Installation Steps**
